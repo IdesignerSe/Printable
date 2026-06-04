@@ -1,6 +1,8 @@
 # Printable
 Printable
-´´´Text
+
+Text´´´
+
 Sk8erWise
 │
 ├── Home
@@ -25,4 +27,5 @@ Sk8erWise
     ├── Amenities
     ├── Photos
     └── Local Tips
+    
 ´´´

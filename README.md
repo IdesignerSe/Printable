@@ -1,7 +1,8 @@
 # Printable
 Printable
 
-Text´´´
+````markdown
+```text
 
 Sk8erWise
 │
@@ -27,5 +28,4 @@ Sk8erWise
     ├── Amenities
     ├── Photos
     └── Local Tips
-    
-´´´
+```
